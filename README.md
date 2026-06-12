@@ -20,13 +20,13 @@
 The intersection of artificial intelligence and aerospace systems captivates me. I'm driven to unravel the intricacies of machine learning, computer vision, and explainable AI to develop intelligent solutions that enhance safety, efficiency, and autonomy in aviation and space exploration.
 
 **Current explorations**
-- 🛩️ AI-powered aircraft damage inspection
-- 🎯 Agentic AI systems for autonomous decision-making
-- 🧠 Explainable deep learning models
-- 🔊 Speech-based emotion & stress recognition
-- 🔍 Human-centered AI for trustworthy applications
+-  AI-powered aircraft damage inspection
+-  Agentic AI systems for autonomous decision-making
+-  Explainable deep learning models
+-  Speech-based emotion & stress recognition
+-  Human-centered AI for trustworthy applications
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r,pytorch,tensorflow,sklearn,opencv,git,docker,vscode,react,html,css,js" alt="skills" />
@@ -39,7 +39,7 @@ The intersection of artificial intelligence and aerospace systems captivates me.
 **Web:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HTML • CSS • JavaScript • React <br>
 **Tools:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Git • Docker • Jupyter • VS Code
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
