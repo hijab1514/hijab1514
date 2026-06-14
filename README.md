@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Hijab Fatima</h1>
+<h1>Hi , I'm Hijab Fatima</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Researcher+%7C+Innovator+%7C+Collaborator;Where+Artificial+Intelligence+meets+Aerospace;Building+trustworthy%2C+explainable+AI" alt="Typing SVG" /></a>
 
