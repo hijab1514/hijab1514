@@ -7,8 +7,8 @@
 <p>Unlocking the potential of artificial intelligence to revolutionize aerospace systems and beyond.<br/>Driven by curiosity, fueled by innovation. Let's build the future together.</p>
 
 <a href="mailto:fatimahijab769@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/hijab-fatima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/hijabfatimaa"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/hijab-fatima-8b758426a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/hijab1514"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=hijabfatimaa&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views" />
 
 </div>
